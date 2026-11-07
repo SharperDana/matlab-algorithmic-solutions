@@ -4,6 +4,9 @@ A comprehensive two-part portfolio of algorithmic scripts, numerical analysis me
 
 ---
 
+## Repository Structure
+
+```text
 matlab-algorithmic-solutions/
 │
 ├── MATLAB_Part1/          # Module 1: Basic Algorithms, Calculus & Geometry
