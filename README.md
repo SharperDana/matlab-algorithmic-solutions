@@ -4,9 +4,6 @@ A comprehensive two-part portfolio of algorithmic scripts, numerical analysis me
 
 ---
 
-## Repository Structure
-
-```text
 matlab-algorithmic-solutions/
 │
 ├── MATLAB_Part1/          # Module 1: Basic Algorithms, Calculus & Geometry
@@ -18,8 +15,7 @@ matlab-algorithmic-solutions/
 │   ├── pointPlaneDistance.m
 │   ├── fibonacciPrimes.m
 │   ├── analyzePolynomial.m
-│   ├── pointsAMB.m
-│   └── ...
+│   └── pointsAMB.m
 │
 └── MATLAB_Part2/          # Module 2: Advanced Numerical Methods, ODEs & Animations
     ├── main.m             # Main execution script for Part 2
